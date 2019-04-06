@@ -43,8 +43,8 @@ jekyll serve --watch
 
 Then, point your web browser to [http://localhost:4000](http://localhost:4000) to see a live rendering of the website.
 
-####Notes & Hints
-#####Generating CSS for Syntax Highliting
+#### Notes & Hints
+##### Generating CSS for Syntax Highliting
 You may need to update the css generating to perform syntax highliting for code blocks. To do that, you run [Pygments]
 ```sh
 pygmentize -S default -f html > css/pygments.css

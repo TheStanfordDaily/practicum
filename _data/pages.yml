@@ -4,6 +4,6 @@ assignments:
   label: 'Assignments'
   link: 'assignments'
 ptz:
-  label: 'Some Really Cool External Website'
-  link: 'http://peetahzee.com'
+  label: React Docs
+  link: https://reactjs.org/docs/hello-world.html
   external: true

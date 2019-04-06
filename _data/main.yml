@@ -1,6 +1,7 @@
-course_name: 'USC CS Course Website Template'
-course_code: 'CSCI MD'
-course_sem: 'Spring 2015'
-github: https://github.com/usc-cs/md_template
-piazza: https://piazza.com/class/i45v51lhnxr2k9
-footer_notice: 'USC > UCLA Muahaha'
+course_name: 'Stanford Daily Tech Practicuum'
+course_code: 'CS199P'
+course_sem: 'Spring 2019'
+github: https://github.com/TheStanfordDaily/practicum
+piazza: 
+footer_notice: 'Created by TSD Tech Team'
+logo: https://www.stanforddaily.com/wp-content/uploads/2019/03/cropped-DailyLogo-CardinalRed.png

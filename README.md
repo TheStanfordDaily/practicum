@@ -47,7 +47,7 @@ Then, point your web browser to [http://localhost:4000](http://localhost:4000) t
 
 #### Notes & Hints
 ##### Generating CSS for Syntax Highliting
-You may need to update the css generating to perform syntax highliting for code blocks. To do that, you run [Pygments]
+You may need to update the css generating to perform syntax highlighting for code blocks. To do that, you run [Pygments].
 ```sh
 pygmentize -S default -f html > css/pygments.css
 ```

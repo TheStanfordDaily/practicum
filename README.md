@@ -30,7 +30,7 @@ gem install redcarpet
 
   1. Install [Pygments] for code syntax highlighting
 ```sh
-pip install pygments
+pip install pygments.rb
 ```
 
 Note for system wide installs, you need to use `sudo` for these commands if you are on a linux system.

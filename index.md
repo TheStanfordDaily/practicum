@@ -4,32 +4,9 @@ title: Data Structures and Object Oriented Design
 nav: index
 ---
 
-## USC CS Markdown Webpage Template
 
-Welcome! 
+## Welcome! 
 
-This is a website built with [Jekyll](http://jekyllrb.com/), which compiles Markdown-written documents into webpages, like what you're seeing right now. It's designed to be robust and flexible, allowing the teaching staff to easily create and maintain a website with minimal setup.
+CS199P - Stanford Daily Tech Practicum (2 units)
 
-In addition to [standard Markdown syntax](https://help.github.com/articles/github-flavored-markdown/), Syntax Highlighting and MathJax is also supported!
-
-```cpp
-using namespace std;
-int main() {
-	std::cout << "Hello there" << std::endl;
-	return 0;
-}
-```
-
-```java
-public class Whoa {
-	public static int main(String[] args) {
-		System.out.println("This is awesomeeeee");
-		return 0;
-	}
-}
-```
-
-Inline \\( sin(x^2) \\), or standalone MathJax:
-
-$$ sin(x^2) $$
-
+Students will learn the fundamentals of web development with React and Redux. As they learn about the development tools and process, they will be assigned tasks that contribute to the Daily’s various tech projects, such as the website, mobile app, and data visualization sites. In the process, they will learn best software engineering practices including automation, testing, version control, and production deployment. Familiarity with a previous programming language is recommended.

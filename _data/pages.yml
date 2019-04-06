@@ -1,9 +1,9 @@
 index: 'Home'
 install: 'Installation'
-assignments:
-  label: 'Assignments'
-  link: 'assignments'
-ptz:
-  label: React Docs
-  link: https://reactjs.org/docs/hello-world.html
-  external: true
+# ptz:
+#   label: React Docs
+#   link: https://reactjs.org/docs/hello-world.html
+#   external: true
+week1:
+  label: 'Week 1'
+  link: 'classes/week1/'

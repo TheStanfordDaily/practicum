@@ -1,12 +1,11 @@
 @import url(http://fonts.googleapis.com/css?family=Merriweather:400,700,300,900);
-@import url(http://fonts.googleapis.com/css?family=Droid+Sans+Mono);
-/* @import url(http://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic); */
+@import url(http://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic);
 
 html, body {
 	padding: 0;
 	margin: 0;
 	background: #efefea;
-	font-family: "Helvetica Neue", arial, sans-serif;
+	font-family: "PT Serif", serif;
 }
 
 .center {
@@ -55,7 +54,8 @@ html, body {
 	-webkit-box-sizing: brder-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
-	
+	box-shadow: 0px 3px 2px 1px #333333;
+	border: none;
 }
 
 #logo_wrapper a {
@@ -120,14 +120,14 @@ header h1 span{
 }
 
 #content h2 {
-	margin: 20px 0 10px 0;
+	margin: 10px 0 20px 0;
 	padding: 0;
 	font-size: 35px;
-	line-height: 30px;
+	line-height: initial;
 	border-bottom: 1px solid #ccc;
 	
 	font-family: "PT Serif", "Merriweather", arial, sans-serif;
-	font-variant: small-caps
+	font-variant: small-caps;
 }
 
 #content h3 {

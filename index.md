@@ -7,9 +7,9 @@ nav: index
 
 ## Welcome! 
 
-Welcome to the Stanford Daily Tech Practicum! We're glad to have you on the course.
+Welcome to the Stanford Daily Tech Practicum! We're glad to have you in the class.
 
-### CS199P - Stanford Daily Tech Practicum (2 units)
+### CS199P - Stanford Daily Tech Practicum (2 units credit/no credit)
 
 Students will learn the fundamentals of web development with React and Redux. As they learn about the development tools and process, they will be assigned tasks that contribute to the Daily’s various tech projects, such as the website, mobile app, and data visualization sites. In the process, they will learn best software engineering practices including automation, testing, version control, and production deployment. Familiarity with a previous programming language is recommended.
 

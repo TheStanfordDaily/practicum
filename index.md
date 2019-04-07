@@ -5,7 +5,7 @@ nav: index
 ---
 
 
-## Welcome! 
+## Welcome!
 
 Welcome to the Stanford Daily Tech Practicum! We're glad to have you in the class.
 
@@ -26,7 +26,7 @@ Note: course schedule is not finalized
 
 | Week    | Topic  | Readings                                                            |
 | ------- | ------ | ------- |
-| Week 2 (Mon)  | Git and GitHub:<br>Version control, Pull Requests, Our workflow at the Daily | [Git Handbook](https://guides.github.com/introduction/git-handbook) (10 mins)<br>[GitHub Hello World](https://guides.github.com/activities/hello-world/) (10 mins)<br>[git - the simple guide](http://rogerdudler.github.io/git-guide/) (15 mins)<br>Download [GitHub Desktop](https://desktop.github.com/), [Node JS](https://nodejs.org/en/download/), and [VS Code](https://code.visualstudio.com/download). |
+| Week 2 (Mon)  | Git and GitHub:<br>Version control, Pull Requests, Our workflow at the Daily | [Git Handbook](https://guides.github.com/introduction/git-handbook) (10 mins)<br>[GitHub Hello World](https://guides.github.com/activities/hello-world/) (10 mins)<br>[git - the simple guide](http://rogerdudler.github.io/git-guide/) (15 mins)<br>[An Introduction to Version Control Using GitHub Desktop](https://programminghistorian.org/en/lessons/getting-started-with-github-desktop) (15 mins)<br>Download [GitHub Desktop](https://desktop.github.com/), [Node JS](https://nodejs.org/en/download/), and [VS Code](https://code.visualstudio.com/download). |
 | Week 2 (Wed)  | HTML, CSS, Modern JavaScript | [JavaScript Syntax](https://www.w3schools.com/js/js_syntax.asp) (30 mins)<br>[ECMAScript 6](https://www.w3schools.com/js/js_es6.asp) - pay attention to "Arrow Notation" (10 mins) |
 | Week 3 (Mon)  | React    | TBD                                                                     |
 | Week 4  | More React    | TBD                                                                     |

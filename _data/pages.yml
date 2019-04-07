@@ -1,9 +1,4 @@
 index: 'Home'
-install: 'Installation'
-# ptz:
-#   label: React Docs
-#   link: https://reactjs.org/docs/hello-world.html
-#   external: true
 week1:
   label: 'Week 1'
-  link: 'classes/week1/'
+  link: 'week1'

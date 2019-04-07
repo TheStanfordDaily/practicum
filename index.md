@@ -14,7 +14,7 @@ Welcome to the Stanford Daily Tech Practicum! We're glad to have you in the clas
 Students will learn the fundamentals of web development with React and Redux. As they learn about the development tools and process, they will be assigned tasks that contribute to the Daily’s various tech projects, such as the website, mobile app, and data visualization sites. In the process, they will learn best software engineering practices including automation, testing, version control, and production deployment. Familiarity with a previous programming language is recommended.
 
 ### Teaching Team
-The teaching team is composed of [Ann Grimes](https://profiles.stanford.edu/intranet/ann-grimes), [Ashwin Ramaswami](https://www.stanforddaily.com/author/ashwinr/), and potentially other members of the Stanford Daily Tech Team.
+The teaching team is composed of [Ann Grimes](https://profiles.stanford.edu/intranet/ann-grimes), [Ashwin Ramaswami](https://epicfaace.github.io/), [Yifei He](https://www.hesyifei.com/), and potentially other members of the Stanford Daily Tech Team.
 
 ### Course Timings
 The course will meet Mondays and Wednesdays from 3:30 - 4:30 PM. Both classes will be in Gates 174 (the Brown Institute space).

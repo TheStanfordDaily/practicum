@@ -24,15 +24,16 @@ Monday will be reserved for a "work session" where people can work on their task
 ### Course schedule
 Note: course schedule is not finalized
 
-| Week    | Topic  | Readings                                                            |
-| ------- | ------ | ------- |
-| Week 2 (Mon)  | Git and GitHub:<br>Version control, Pull Requests, Our workflow at the Daily | [Git Handbook](https://guides.github.com/introduction/git-handbook) (10 mins)<br>[GitHub Hello World](https://guides.github.com/activities/hello-world/) (10 mins)<br>[git - the simple guide](http://rogerdudler.github.io/git-guide/) (15 mins)<br>Download [GitHub Desktop](https://desktop.github.com/), [Node JS](https://nodejs.org/en/download/), and [VS Code](https://code.visualstudio.com/download). |
-| Week 2 (Wed)  | HTML, CSS, Modern JavaScript | [JavaScript Syntax](https://www.w3schools.com/js/js_syntax.asp) (30 mins)<br>[ECMAScript 6](https://www.w3schools.com/js/js_es6.asp) - pay attention to "Arrow Notation" (10 mins) |
-| Week 3 (Mon)  | React    | TBD                                                                     |
-| Week 4  | More React    | TBD                                                                     |
-| Week 5  | More React    | TBD                                                                     |
-| Week 6  | React    | TBD                                                                     |
-| Week 7  | Redux    | TBD                                                                     |
-| Week 8  | More Redux    | TBD                                                                     |
-| Week 9  | Deployment    | TBD                                                                     |
-| Week 10  | More Deployment    | TBD                                                                     |
+| Week    | Topic  | Readings                                                            | Slides |
+| ------- | ------ | ------- | --- |
+| Week 2 (Mon)  | Git and GitHub:<br>Version control, Pull Requests, Our workflow at the Daily | [Git Handbook](https://guides.github.com/introduction/git-handbook) (10 mins)<br>[GitHub Hello World](https://guides.github.com/activities/hello-world/) (10 mins)<br>[git - the simple guide](http://rogerdudler.github.io/git-guide/) (15 mins)<br>Download [GitHub Desktop](https://desktop.github.com/), [Node JS](https://nodejs.org/en/download/), and [VS Code](https://code.visualstudio.com/download). | [Slides](https://docs.google.com/presentation/d/1A1NdHH9PHb4O6qyeiS3oqfPHlspQZEubeVK6TtuRpBE/edit) |
+| Week 2 (Wed)  | HTML basics, CSS, Modern JavaScript | [JavaScript Syntax](https://www.w3schools.com/js/js_syntax.asp) (30 mins)<br>[ECMAScript 6](https://www.w3schools.com/js/js_es6.asp) - pay attention to "Arrow Notation" (10 mins) |
+| Week 3 (Mon)  | React (JSX, components)    | TBD |                                                                    |
+| Week 3 (Wed)  | React    | TBD                    |                                                 |
+| Week 4 (Mon)  | More React    | TBD                |                                                     |
+| Week 5 (Wed) | More React    | TBD                  |                                                   |
+| Week 6 (Mon) | React    | TBD                        |                                             |
+| Week 7  | Redux    | TBD                              |                                       |
+| Week 8  | More Redux    | TBD                          |                                           |
+| Week 9  | Deployment    | TBD                           |                                          |
+| Week 10  | More Deployment    | TBD                      |                                               |

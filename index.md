@@ -5,7 +5,7 @@ nav: index
 ---
 
 
-## Welcome! 
+## Welcome!
 
 Welcome to the Stanford Daily Tech Practicum! We're glad to have you in the class.
 

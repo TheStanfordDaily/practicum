@@ -1,0 +1,20 @@
+{
+  "name": "practicum",
+  "version": "1.0.0",
+  "description": "<img src=\"https://user-images.githubusercontent.com/1689183/55673023-25239a00-5857-11e9-9699-5f2d0ab365cf.png\" width=\"100\">",
+  "main": "index.js",
+  "scripts": {
+    "start": "jekyll serve --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheStanfordDaily/practicum.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheStanfordDaily/practicum/issues"
+  },
+  "homepage": "https://github.com/TheStanfordDaily/practicum#readme"
+}

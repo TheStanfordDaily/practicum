@@ -1,32 +1,10 @@
 ---
 layout: default
-title: Week 1
-nav: week1
+title: Homework 1
+nav: project
 ---
 
-## Week 1
-
-## Agenda for Monday
-
-- Introductions
-- Welcome to the Daily
-- Class introduction and format
-- Github workshop and workflow (pull requests, etc.)
-- Make your first contribution
-
-[Slides](https://docs.google.com/presentation/d/1A1NdHH9PHb4O6qyeiS3oqfPHlspQZEubeVK6TtuRpBE/edit?usp=sharing)
-
-
-## Agenda for Wednesday
-
-- HTML
-- CSS
-- Javascript
-- React JS intro
-
-[Slides](https://docs.google.com/presentation/d/1A1NdHH9PHb4O6qyeiS3oqfPHlspQZEubeVK6TtuRpBE/edit?usp=sharing)
-
-## Homework Assignment
+## Homework 1
 Create a static page for the particular project you are assigned to. Use your HTML and CSS knowledge to add your code in `src/App.js`. Make it look good! We will have a work / questions session and then present on Monday.
 <br><br>
 

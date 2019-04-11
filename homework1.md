@@ -5,7 +5,7 @@ nav: project
 ---
 
 ## Homework 1
-Create a static page for the particular project you are assigned to. Use your HTML and CSS knowledge to add your code in `src/App.js`. Make it look good! We will have a work / questions session and then present on Monday.
+Create a static page for the particular project you are assigned to. Use your HTML and CSS knowledge to add your code in `src/App.js`. Just add dummy data and edit the `App.js` and `App.css` files. Make it look good! We will have a work / questions session and then present on Monday.
 <br><br>
 
 | People    | Project Name  | Description | Links |

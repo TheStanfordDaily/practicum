@@ -12,4 +12,4 @@ Create a static page for the particular project you are assigned to. Use your HT
 | ------- | ------ | ------- | ---- |
 | Cathy, Emily | Open Data Project | Make it look better with CSS | [Github Repo](https://github.com/TheStanfordDaily/open-data-portal) |
 | Devansh, Sunnie | Data Viz Site | Make the React site look like the HTML template | [Github Repo](https://github.com/TheStanfordDaily/94305)<br>[HTML Template](https://thestanforddaily.github.io/94305/) |
-| Harry, Grace | Jobs Board | Create a site with a list of jobs | [Github Repo](https://github.com/TheStanfordDaily/jobs-board) |
+| Grace | Jobs Board | Create a site with a list of jobs | [Github Repo](https://github.com/TheStanfordDaily/jobs-board) |

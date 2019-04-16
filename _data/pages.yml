@@ -2,3 +2,6 @@ index: 'Home'
 homework1:
   label: 'Homework 1'
   link: 'homework1'
+# homework2:
+#   label: 'Homework 2'
+#   link: 'homework2'

@@ -5,12 +5,19 @@ nav: project
 ---
 
 ## Homework 2
-TBD
+Refactor components to make it more modular! Due 4/22.
 <br><br>
+
+
+- Sunnie
+- Grace
+ - Cathy and Emily
+ - Devansh
+
 
 | People    | Project Name  | Description | Links |
 | ------- | ------ | ------- | ---- |
-| | | |
-| | | |
-| | | |
-| | | |
+| Sunnie| Data viz site  | |
+| Grace| Jobs board | |
+| Cathy and Emily| Open Data Project| |
+| Devansh | Authors page| |

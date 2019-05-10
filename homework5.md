@@ -7,9 +7,9 @@ nav: project
 ## Homework 5
 Incorporate forms into your project! Use react-jsonschema-form. Due Monday 5/13.
 
-Sample usage of the form: https://gist.github.com/epicfaace/39f8eacd1305167190bb2f114030a5d3
+Sample usage of the form: [https://gist.github.com/epicfaace/39f8eacd1305167190bb2f114030a5d3](https://gist.github.com/epicfaace/39f8eacd1305167190bb2f114030a5d3)
 
-Documentation: https://react-jsonschema-form.readthedocs.io/en/latest/
+Documentation: [https://react-jsonschema-form.readthedocs.io/en/latest/](https://react-jsonschema-form.readthedocs.io/en/latest/)
 
 <br><br>
 

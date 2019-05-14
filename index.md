@@ -36,8 +36,8 @@ Note: course schedule is not finalized
 | Week 5 (Wed 5/1) | React Router    | [How Single Page Applications Work](https://blog.pshrmn.com/entry/how-single-page-applications-work/) (15 mins)<br>[React Router quick start](https://reacttraining.com/react-router/web/guides/quick-start) (5 mins)<br>[Talk like a Googler: parts of a url](https://www.mattcutts.com/blog/seo-glossary-url-definitions/) (5 mins)                  |  [Slides](https://docs.google.com/presentation/d/1zYBUhGHsMUPsIcDfM6zswEj7giE1oZdUf-_1x7wtBUY/edit#slide=id.g590f9482dc_0_1) |
 | Week 6 (Mon 5/6) | Deploying, JSON Schema   | None                        |      [Slides](https://docs.google.com/presentation/d/1zb7iT-lS82088eL-IU7mHM_68FKw6nYoXUEbUHHijXs/edit#slide=id.g59c8af4ab0_0_50) |
 | Week 6 (Mon 5/8) | Deploying, JSON Schema   | [A step-by-step guide to getting started with HTML forms](https://medium.freecodecamp.org/a-step-by-step-guide-to-getting-started-with-html-forms-7f77ae4522b5) (skim - 20 mins)                       |      [Slides](https://docs.google.com/presentation/d/11GTK0GDK3js_wg2RnSZ4PQ59WTqhVnvQX48wiCLNxPY/edit#slide=id.g5165285dd6_0_11) |
-| Week 7 (Mon 5/13)  | React forms review, integrating with APIs    | None                              |                                       |
-| Week 7 (Wed 5/15)  | Integrating with APIs and Redux    | TBD                              |                                       |
-| Week 8  | More Redux    | TBD                          |                                           |
-| Week 9  | Deployment    | TBD                           |                                          |
-| Week 10  | More Deployment    | TBD                      |                                               |
+| Week 7 (Mon 5/13)  | React forms review and post requests    | None                              |      [Slides](https://docs.google.com/presentation/d/14_Xk4f6RCGhh8U7Z8cKqdOCymqwsS1EepB8R7Ro5lao/edit#slide=id.p)                                 |
+| Week 7 (Wed 5/15)  | WordPress    | [Migrating from JavaScript to PHP](https://www.codementor.io/davidbrumbaugh/migrating-from-javascript-to-php-du1088tr4) (15 mins)<br>[Wordpress Theme Development](https://codex.wordpress.org/Theme_Development) (10 mins)                              |                                       |
+| Week 8  | WordPress    | TBD                          |                                           |
+| Week 9  | WordPress    | TBD                           |                                          |
+| Week 10  | More WordPress    | TBD                      |                                               |

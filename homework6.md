@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Homework 5
+title: Homework 6
 nav: project
 ---
 

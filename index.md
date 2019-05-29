@@ -22,7 +22,6 @@ The course will meet Mondays and Wednesdays from 3:30 - 4:30 PM. Both classes wi
 Monday will be reserved for a "work session" where people can work on their tasks and ask questions if needed. Wednesday will be used for lectures on the topic that is being covered.
 
 ### Course schedule
-Note: course schedule is not finalized
 
 | Week    | Topic  | Readings                                                            | Slides |
 | ------- | ------ | ------- | --- |

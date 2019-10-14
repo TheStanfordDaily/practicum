@@ -1,7 +1,7 @@
 course_name: 'The Stanford Daily Tech Practicum'
-course_code: 'CS199P'
-course_sem: 'Spring 2019'
-github: https://github.com/TheStanfordDaily/practicum
+course_code: 'CS199'
+course_sem: 'Autumn 2019'
+github: https://github.com/TheStanfordDaily/tech-practicum
 jsfiddle: https://jsfiddle.net/reactjs/69z2wepo/
 footer_notice: 'Created by TSD Tech Team'
 logo: https://www.stanforddaily.com/wp-content/uploads/2019/03/cropped-DailyLogo-CardinalRed.png

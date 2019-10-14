@@ -2,7 +2,7 @@
 
 # Stanford Daily Tech Practicum website
 
-This is the website for the Stanford Daily Tech Practicum course for Spring 2019. Site is live at https://tech.stanforddaily.com. Contributions welcome!
+This is the website for the Stanford Daily Tech Practicum course for Autumn 2019. Site is live at https://cs199p.stanforddaily.com. Contributions welcome!
 
 
 ## Development setup

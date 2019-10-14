@@ -9,22 +9,31 @@ nav: index
 
 Welcome to the Stanford Daily Tech Practicum! We're glad to have you in the class.
 
-### CS199P - Stanford Daily Tech Practicum (2 units credit/no credit)
+### CS199 - Stanford Daily Tech Practicum (1 unit letter grade)
 
-Students will learn the fundamentals of web development with React and Redux. As they learn about the development tools and process, they will be assigned tasks that contribute to the Daily’s various tech projects, such as the website, mobile app, and data visualization sites. In the process, they will learn best software engineering practices including automation, testing, version control, and production deployment. Familiarity with a previous programming language is recommended.
+Students will learn the fundamentals of web development with React and Redux. As they learn about the development tools and process, they will be assigned tasks that contribute to the Daily's various tech projects, such as the website, mobile app, and data visualization sites. In the process, they will learn best software engineering practices including automation, testing, version control, and production deployment. Familiarity with a previous programming language is recommended.
 
 ### Teaching Team
-The teaching team is composed of [Ann Grimes](https://profiles.stanford.edu/intranet/ann-grimes), [Ashwin Ramaswami](https://epicfaace.github.io/), [Yifei He](https://www.hesyifei.com/), and potentially other members of the Stanford Daily Tech Team.
+The teaching team is composed of [Ann Grimes](https://profiles.stanford.edu/intranet/ann-grimes), [Ashwin Ramaswami](https://epicfaace.github.io/), and potentially other members of the Stanford Daily Tech Team.
 
 ### Course Timings
-The course will meet Mondays and Wednesdays from 3:30 - 4:30 PM. Both classes will be in Gates 174 (the Brown Institute space).
-
-Monday will be reserved for a "work session" where people can work on their tasks and ask questions if needed. Wednesday will be used for lectures on the topic that is being covered.
+The course will meet Thursdays from 7:00 PM - 8:20 PM in 190-B40 (Wallenberg Hall).
 
 ### Course schedule
 
+Schedule is subject to change.
+
 | Week    | Topic  | Readings                                                            | Slides |
 | ------- | ------ | ------- | --- |
+| Week 4 (Thu 10/17) | GitHub, Intro to Web Dev and React | Download [GitHub Desktop](https://desktop.github.com/), [Node JS](https://nodejs.org/en/download/), and [VS Code](https://code.visualstudio.com/download). Make sure you can run `npm` in the terminal.<br><br>GitHub reading:<br>[An Introduction to Version Control Using GitHub Desktop](https://programminghistorian.org/en/lessons/getting-started-with-github-desktop) (15 mins)<Br><Br>Javascript readings:<br>[JavaScript Syntax](https://www.w3schools.com/js/js_syntax.asp) (30 mins)<br>[ECMAScript 6](https://www.w3schools.com/js/js_es6.asp) - pay attention to "Arrow Notation" (10 mins)<br>[Why package.json?](https://medium.com/beginners-guide-to-mobile-web-development/why-package-json-npm-basics-cab3e8cd150) (10 mins) | TBD |
+| Week 5 (Thu 10/24) | React Router | TBD | TBD |
+| Week 6 (Thu 10/31) | React class-based components | TBD | TBD |
+| Week 7 (Thu 11/7) | Networking, HTTP, fetch | TBD | TBD |
+| Week 8 (Thu 11/14) | Deployment | TBD | TBD |
+| Week 9 (Thu 11/21) | Work on final project | TBD | TBD |
+| Week 10 (Thu 12/5) | Work on final project | TBD | TBD |
+
+<!--
 | Week 2 (Mon 4/8)  | Git and GitHub:<br>Version control, Pull Requests, Our workflow at the Daily | [Git Handbook](https://guides.github.com/introduction/git-handbook) (10 mins)<br>[GitHub Hello World](https://guides.github.com/activities/hello-world/) (10 mins)<br>[git - the simple guide](http://rogerdudler.github.io/git-guide/) (15 mins)<br>Download [GitHub Desktop](https://desktop.github.com/), [Node JS](https://nodejs.org/en/download/), and [VS Code](https://code.visualstudio.com/download). | [Slides](https://docs.google.com/presentation/d/1A1NdHH9PHb4O6qyeiS3oqfPHlspQZEubeVK6TtuRpBE/edit?usp=sharing) |
 | Week 2 (Wed 4/10)  | HTML basics, CSS, Modern JavaScript | [JavaScript Syntax](https://www.w3schools.com/js/js_syntax.asp) (30 mins)<br>[ECMAScript 6](https://www.w3schools.com/js/js_es6.asp) - pay attention to "Arrow Notation" (10 mins) | [Slides](https://docs.google.com/presentation/d/1BfTY2fzS7Uwp8bqInsi1tXZtZDJMoiFNoMZWA7Igh98/edit?usp=sharing) |
 | Week 3 (Mon 4/15)  | [Homework 1](/homework1) due<br>Installing packages using npm<br>Resolving git merge conflicts    | [Why package.json?](https://medium.com/beginners-guide-to-mobile-web-development/why-package-json-npm-basics-cab3e8cd150) (5 mins)<br>[Resolving a merge conflict using the command line](https://help.github.com/en/articles/resolving-a-merge-conflict-using-the-command-line) and [Resolving a merge conflict on GitHub](https://help.github.com/en/articles/resolving-a-merge-conflict-on-github) (5 mins) | [Slides](https://docs.google.com/presentation/d/1FYLYpnBVN6QMLg8YBQ6m5nB9NoLP5b6AFKHcGggXVCU/edit?usp=sharing) |
@@ -42,3 +51,4 @@ Monday will be reserved for a "work session" where people can work on their task
 | Week 9 (Wed 5/29) | Wordpress + REST APIs + React    | None                          |  [Slides](https://docs.google.com/presentation/d/1oDnkQKN-ivq7SPBR9FkxQRw6325xX7Q69Hp20Y6Tozg/edit#slide=id.g5a79435312_2_13)   |
 | Week 10 (Mon 6/3)  | Work session for [final project](/homework8)    | None                           |                                          |
 | Week 10 (Mon 6/5)  | Final Presentations, Final Thoughts    | None                           |                                          |
+-->

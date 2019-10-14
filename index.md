@@ -17,7 +17,7 @@ Students will learn the fundamentals of web development with React and Redux. As
 The teaching team is composed of [Ann Grimes](https://profiles.stanford.edu/intranet/ann-grimes), [Ashwin Ramaswami](https://epicfaace.github.io/), and potentially other members of the Stanford Daily Tech Team.
 
 ### Course Timings
-The course will meet Thursdays from 7:00 PM - 8:20 PM in 190-B40 (Wallenberg Hall).
+The course will meet Thursdays from 7:00 PM - 8:20 PM in 160-B40 (Wallenberg Hall).
 
 ### Course schedule
 

@@ -23,15 +23,15 @@ The course will meet Thursdays from 7:00 PM - 8:20 PM in 160-B40 (Wallenberg Hal
 
 Schedule is subject to change.
 
-| Week    | Topic  | Readings                                                            | Slides |
-| ------- | ------ | ------- | --- |
-| Week 4 (Thu 10/17) | GitHub, Intro to Web Dev and React | Download [GitHub Desktop](https://desktop.github.com/), [Node JS](https://nodejs.org/en/download/), and [VS Code](https://code.visualstudio.com/download). Make sure you can run `npm` in the terminal.<br><br>GitHub reading:<br>[An Introduction to Version Control Using GitHub Desktop](https://programminghistorian.org/en/lessons/getting-started-with-github-desktop) (15 mins)<Br><Br>Javascript readings:<br>[JavaScript Syntax](https://www.w3schools.com/js/js_syntax.asp) (15 mins)<br>[ECMAScript 6](https://www.w3schools.com/js/js_es6.asp) - pay attention to "Arrow Notation" (10 mins)<br>[Why package.json?](https://medium.com/beginners-guide-to-mobile-web-development/why-package-json-npm-basics-cab3e8cd150) (10 mins) | [Slides](https://docs.google.com/presentation/d/1_w0PK9VO3PHenLg42bVMmGViHtklQkcBTQ3UEcT2mkg/edit) |
-| Week 5 (Thu 10/24) | React Router | TBD | TBD |
-| Week 6 (Thu 10/31) | React class-based components | TBD | TBD |
-| Week 7 (Thu 11/7) | Networking, HTTP, fetch | TBD | TBD |
-| Week 8 (Thu 11/14) | Deployment | TBD | TBD |
-| Week 9 (Thu 11/21) | Work on final project | TBD | TBD |
-| Week 10 (Thu 12/5) | Work on final project | TBD | TBD |
+| Week    | Topic  | Readings                                                            | Slides | Homework |
+| ------- | ------ | ------- | --- | --- |
+| Week 4 (Thu 10/17) | GitHub, Intro to Web Dev and React | Download [GitHub Desktop](https://desktop.github.com/), [Node JS](https://nodejs.org/en/download/), and [VS Code](https://code.visualstudio.com/download). Make sure you can run `npm` in the terminal.<br><br>GitHub reading:<br>[An Introduction to Version Control Using GitHub Desktop](https://programminghistorian.org/en/lessons/getting-started-with-github-desktop) (15 mins)<Br><Br>Javascript readings:<br>[JavaScript Syntax](https://www.w3schools.com/js/js_syntax.asp) (15 mins)<br>[ECMAScript 6](https://www.w3schools.com/js/js_es6.asp) - pay attention to "Arrow Notation" (10 mins)<br>[Why package.json?](https://medium.com/beginners-guide-to-mobile-web-development/why-package-json-npm-basics-cab3e8cd150) (10 mins) | [Slides](https://docs.google.com/presentation/d/1_w0PK9VO3PHenLg42bVMmGViHtklQkcBTQ3UEcT2mkg/edit) | [Homework](https://docs.google.com/forms/d/1yZ-GHwaNde4qxCiOIrsRz2GpoGGQlR61n60kpar5ahY/edit) |
+| Week 5 (Thu 10/24) | React Router | TBD | TBD | --- |
+| Week 6 (Thu 10/31) | React class-based components | TBD | TBD | --- |
+| Week 7 (Thu 11/7) | Networking, HTTP, fetch | TBD | TBD | --- |
+| Week 8 (Thu 11/14) | Deployment | TBD | TBD | --- |
+| Week 9 (Thu 11/21) | Work on final project | TBD | TBD | --- |
+| Week 10 (Thu 12/5) | Work on final project | TBD | TBD | --- |
 
 <!--
 | Week 2 (Mon 4/8)  | Git and GitHub:<br>Version control, Pull Requests, Our workflow at the Daily | [Git Handbook](https://guides.github.com/introduction/git-handbook) (10 mins)<br>[GitHub Hello World](https://guides.github.com/activities/hello-world/) (10 mins)<br>[git - the simple guide](http://rogerdudler.github.io/git-guide/) (15 mins)<br>Download [GitHub Desktop](https://desktop.github.com/), [Node JS](https://nodejs.org/en/download/), and [VS Code](https://code.visualstudio.com/download). | [Slides](https://docs.google.com/presentation/d/1A1NdHH9PHb4O6qyeiS3oqfPHlspQZEubeVK6TtuRpBE/edit?usp=sharing) |
